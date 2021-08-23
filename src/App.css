@@ -1,0 +1,26 @@
+body {
+    max-width: 100vw;
+    background-color: #161f27;
+    color: white;
+    justify-content: center;
+}
+
+form {
+    max-width: 50%;
+    margin: 0 auto;
+    padding-top: 250px;
+    padding-left: 500px;
+}
+
+input, select {
+    margin-bottom: 20px;
+    color: #e0e0e0;
+}
+
+.MuiInputBase-input.MuiInput-input {
+    color: #e0e0e0;
+}
+
+table {
+    background-color: #e0e0e0;
+}
